@@ -1,0 +1,7 @@
+{
+    "name": "moodlicious/moodle-dataformat_sqlite",
+    "description": "A Moodle data format plugin that exports data as a SQLite database dump.",
+    "type": "moodle-dataformat",
+    "license": "GPL-3.0-or-later",
+    "require": {}
+}
