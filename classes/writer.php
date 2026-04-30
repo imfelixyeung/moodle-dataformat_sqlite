@@ -46,10 +46,10 @@ class writer extends base {
     protected string $tablename = 'export';
 
     /** @var PDO */
-    protected PDO $pdo;
+    protected $pdo;
 
     /** @var PDOStatement */
-    protected PDOStatement $insertstatement;
+    protected $insertstatement;
 
     /**
      * Initialise the database that we will be adding data to.
